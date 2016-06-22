@@ -2,6 +2,9 @@
 
 A boilerplate with react, redux, redux-saga, react-router, webpack, babel, css-modules ...
 
+## 效果截图
+![screenshot1](http://ww3.sinaimg.cn/mw690/a851ffe4gw1f53w1hmtsjj211t0hzabt.jpg)
+
 ## 环境准备
 
 先安装依赖
