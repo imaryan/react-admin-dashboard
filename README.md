@@ -1,4 +1,4 @@
-# react-redux-boilerplate
+# react-admin-dashboard
 
 A boilerplate with react, redux, redux-saga, react-router, webpack, babel, css-modules ...
 
