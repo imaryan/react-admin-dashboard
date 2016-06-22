@@ -1,0 +1,10 @@
+.page-wrapper {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
